@@ -1,1 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+nav {
+  border: 1px solid black;
+  /* overflow: hidden; */
+  margin: 1em auto;
+  height: 100px;
+}
+
+body {
+  border: 1px solid black;
+  margin: auto;
+  width: 960px;
+  overflow: auto;
+  padding: 1em;
+
+}
+
+#logo {
+  display: inline-block;
+  /* float: left; */
+}
+
+#navdiv {
+
+}
+
+#navh1 {
+  font: 25px cursive, sans-serif;
+  display: inline;
+}
+
+h4 {
+  display: inline;
+}
+
+#nav1 {
+
+}
+
+#nav2 {
+
+}
+
+#chocPizza {
+
+}
 
